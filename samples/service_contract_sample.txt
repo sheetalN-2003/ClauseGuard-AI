@@ -1,0 +1,12 @@
+SERVICE AGREEMENT
+
+Between [Provider] ("Vendor") and [Client] ("Customer").
+
+1. SERVICES
+Vendor will provide [describe services] as per Exhibit A.
+
+2. PAYMENT
+$[amount] per hour, invoiced monthly with net-30 terms.
+
+3. TERMINATION
+Either party may terminate with 30 days written notice.
