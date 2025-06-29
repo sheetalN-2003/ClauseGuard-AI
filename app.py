@@ -35,7 +35,7 @@ DEFAULT_STANDARD_CLAUSES = [
 
 # IBM Cloud Configuration
 IAM_TOKEN_URL = "https://iam.cloud.ibm.com/identity/token"
-GRANITE_API_URL = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2024-05-01"
+GRANITE_API_URL = "https://us-south.ml.cloud.ibm.com/ml/v1/text/chat?version=2023-05-29"
 DEFAULT_MODEL = "ibm/granite-13b-instruct-v1"
 
 # Sample data for demonstration
