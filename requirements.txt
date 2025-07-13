@@ -1,5 +1,17 @@
 streamlit
 PyPDF2
 python-docx
-requests
+firebase-admin
+spacy
+transformers
+torch
+networkx
+matplotlib
 pandas
+requests
+python-dateutil
+google-cloud-firestore
+google-cloud-storage
+tqdm
+difflib
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.0/en_core_web_lg-3.7.0-py3-none-any.whl
